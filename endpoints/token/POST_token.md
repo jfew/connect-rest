@@ -40,7 +40,7 @@ All known errors cause the resource to return HTTP error code header together wi
 ``` json
 
 "token": {
-    "coordination_id": "string"
+    "coordination_id": "string",
     "ssl_token": "string",
     "token": "string",
     "token_duration_minutes": int,
