@@ -8,7 +8,7 @@ Returns the metadata for a given Image ID.
 ***
 
 ## Requires authentication
-**Via /token endpoint, passed in via digest authentication. **
+Via /token endpoint, passed in via digest authentication.
 
 ***
 
