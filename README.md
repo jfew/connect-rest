@@ -3,8 +3,8 @@ Getty Images Connect API
 ##Endpoints
 
 ###Token resources
-- **[<code>POST</code> token](file://./token.md)**
-- **[<code>POST</code> securetoken](https://.md)**
+- **[<code>POST</code> token](./endpoints/token/token.md)**
+- **[<code>POST</code> securetoken](./endpoints/token/securetoken.md)**
 
 ###Image resources
 - **[<code>GET</code> images/:id](https://.md)**
