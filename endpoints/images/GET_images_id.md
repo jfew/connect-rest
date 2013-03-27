@@ -88,7 +88,18 @@ All known errors cause the resource to return HTTP error code header together wi
         "Restrictions": [
           "string"
         ],
-        "SizesDownloadableImages": [],
+        "SizesDownloadableImages": [
+          {
+            "FileSizeInBytes": int,
+            "InchesHeight": double,
+            "InchesWidth": double,
+            "PixelHeight": int,
+            "PixelWidth": int,
+            "ResolutionDpi": int,
+            "SizeKey": "string",
+            "DownloadToken": "string"
+          }
+          ],
         "StateProvince": "string",
         "Title": "string",
         "UrlComp": "string",
