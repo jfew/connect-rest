@@ -7,7 +7,7 @@ Getty Images Connect API
 
 ###Image resources
 - **[<code>GET</code> images/:id](./endpoints/images/GET_images_id.md)**
-- **[<code>GET</code> images/search](./endpoints/images/POST_images_search.md)**
+- **[<code>GET</code> images/search](./endpoints/images/GET_images_search.md)**
 
 ###Video resources
 - **[<code>GET</code> videos/:id](./endpoints/videos/GET_videos_id.md)**
