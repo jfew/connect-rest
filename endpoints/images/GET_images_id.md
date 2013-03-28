@@ -14,6 +14,7 @@ Via /token endpoint, passed in via digest authentication.
 
 ## Parameters
 - **language** _(optional)_ — Language in which to return certain image metadata (e.g. keywords, restrictions). Default is en-us.
+- **coordination_id** _(optional)_ - An ID unique to the request for coordination and debugging purposes.
 
 ***
 
