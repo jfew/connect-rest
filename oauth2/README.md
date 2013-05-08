@@ -22,7 +22,7 @@ This authentication flow is used when your application's end user is accessing t
 Your application, end user and Getty Images' authorization server interact as follows:
 
 FLOW DIAGRAM HERE
-![Server Authentication Flow](http://developer.constantcontact.com/dotAsset/991381b5-0917-4799-b76a-b87f45a9d9f0.png)
+![Server Authentication Flow]()
 
 1. The Getty Images user opens your application for the first time.
 2. Your application directs the user to the Getty Images Connect authorization page.
@@ -112,7 +112,7 @@ A successful response is returned as a JSON array:
 For applications that store user information and access tokens locally on the user's device, client authentication is the preferred OAuth flow. It consists of a single transaction that returns an access token to the client application, assuming the user grants the application access to Getty Images on their behalf.
 
 FLOW DIAGRAM HERE
-![Client Authentication Flow](http://developer.constantcontact.com/dotAsset/12699b2b-b0a7-4d88-9419-a0db5ed7f5e0.png)
+![Client Authentication Flow]()
 
 1. The Getty Images user opens your application on their device.
 2. The application directs the user to Getty Images' authorization server.
